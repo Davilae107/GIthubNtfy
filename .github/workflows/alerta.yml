@@ -14,4 +14,4 @@ jobs:
 
       - name: Enviar notificación a ntfy.sh
         run: |
-          curl -d "Código subido a la rama main 🚀" ntfy.sh/devops-itla
+          curl -d "Código subido a la rama main 🚀 davila" ntfy.sh/devops-itla
