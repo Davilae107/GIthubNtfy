@@ -3,7 +3,7 @@ name: Notificación a ntfy.sh
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   enviar-alerta:
